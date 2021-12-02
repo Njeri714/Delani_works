@@ -61,15 +61,35 @@ h5{
 
 img:hover {
     cursor: pointer;
-  }
+}
   
-  .about-title{
+.about-title{
   text-align: center;
-  }
+}
   
-  .what{
+.what{
       display: flex;
       justify-content: space-between;
       flex-direction: column;
-  }
-  
+}
+
+#pic1 {
+    display: flex;
+    padding: 20px;
+    
+}
+
+#pic2{
+    padding: 20px;
+}
+
+#pic3{
+    padding:20px;
+}
+
+.girr{
+    display: flex;
+    float: right;
+    margin-top: -300px;
+    /* margin-right: 10px; */
+}
