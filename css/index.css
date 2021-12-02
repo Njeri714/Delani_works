@@ -58,3 +58,18 @@ h5{
   font-size: 1.4rem;
   line-height: 2.5rem;
 }
+
+img:hover {
+    cursor: pointer;
+  }
+  
+  .about-title{
+  text-align: center;
+  }
+  
+  .what{
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+  }
+  
