@@ -1,0 +1,25 @@
+.landpage{
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.welki{
+    color: black;
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+}
+
+.studio, .P{
+    /* background-color: black; */
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.head{
+    background-image: url(../backgrounds/h_img.jpg);
+    height: 100%;
+}
