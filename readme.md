@@ -24,7 +24,7 @@ slack- Charity Waweru
 Email- charity.waweru@mstudent.moringaschool.com
 
 ## Links
-njeri714.github.io/delani-studios/  - live link
+
 
 ## Licences
 MIT License
