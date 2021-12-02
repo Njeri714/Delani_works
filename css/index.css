@@ -37,3 +37,24 @@
     display: flex;
     justify-content: center;
 }
+
+#services{
+    color: white;
+    text-align: center;
+    background-image: url(../backgrounds/s_image.jpg);
+    background-size: cover;
+}
+
+h5{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.development-description,
+.design-description,
+.product-description {
+  display: none;
+  font-size: 1.4rem;
+  line-height: 2.5rem;
+}
