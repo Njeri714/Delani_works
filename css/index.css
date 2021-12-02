@@ -23,3 +23,17 @@
     background-image: url(../backgrounds/h_img.jpg);
     height: 100%;
 }
+
+.mouse{
+    display: flex;
+    justify-content: center;
+}
+.about_m{
+    display: flex;
+    justify-content: center;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+}
